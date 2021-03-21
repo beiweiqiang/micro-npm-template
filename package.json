@@ -1,0 +1,24 @@
+{
+    "name": "npm-name",
+    "description": "description",
+    "version": "1.0.0",
+    "homepage": "https://github.com/beiweiqiang/npm-name",
+    "author": "beiweiqiang (https://github.com/beiweiqiang)",
+    "repository": "beiweiqiang/npm-name",
+    "bugs": {
+      "url": "https://github.com/beiweiqiang/npm-name/issues"
+    },
+    "license": "MIT",
+    "files": [
+      "index.js"
+    ],
+    "main": "index.js",
+    "scripts": {
+      "test": "node test"
+    },
+    "keywords": [
+      "your keywords"
+    ],
+    "dependencies": {},
+    "devDependencies": {}
+  }
